@@ -9,18 +9,18 @@ export default function Nav() {
         </a>
 
         <div className="hidden md:flex items-center gap-8">
-          <a href="#platform" className="text-sm text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
+          <a href="#platform" className="text-[14px] text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
             What we build
           </a>
-          <a href="#advisory" className="text-sm text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
+          <a href="#advisory" className="text-[14px] text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
             Advisory
           </a>
-          <a href="#case-study" className="text-sm text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
+          <a href="#case-study" className="text-[14px] text-[#a0a0b8] hover:text-[#e8e8f0] transition-colors duration-150">
             Case study
           </a>
           <a
             href={CALENDLY_URL}
-            className="text-sm bg-[#6366f1] hover:bg-[#5254cc] text-white px-4 py-2 rounded-md font-medium transition-colors duration-150"
+            className="text-[14px] bg-[#6366f1] hover:bg-[#5254cc] text-white px-5 py-2.5 rounded-md font-medium transition-colors duration-150"
           >
             Book a call
           </a>
