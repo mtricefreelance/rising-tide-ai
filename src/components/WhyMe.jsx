@@ -2,7 +2,6 @@ const proofPoints = [
   { value: '$100M+', label: 'ARR tracked monthly' },
   { value: '7', label: 'departments live on automation I deployed' },
   { value: '$120M', label: 'monthly revenue flowing through models I built' },
-  { value: '2 days', label: 'from brief to deployed AI recruitment pipeline MVP' },
 ]
 
 export default function WhyMe() {
