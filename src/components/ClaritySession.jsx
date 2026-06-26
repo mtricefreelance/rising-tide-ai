@@ -22,10 +22,11 @@ export default function ClaritySession() {
           >
             The AI clarity session.
           </h2>
-          <p className="text-2xl font-semibold text-[#e8e8f0] mb-10">
+          <p className="text-2xl font-semibold text-[#e8e8f0] mb-1">
             $750{' '}
             <span className="text-sm font-normal text-[#5a5a78]">fixed</span>
           </p>
+          <p className="text-sm text-[#5a5a78] mb-10">90-minute working session</p>
 
           <ul className="space-y-4 mb-10">
             {included.map((item, i) => (

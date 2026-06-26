@@ -38,25 +38,6 @@ export default function Platform() {
           </p>
         </div>
 
-        {/* Video placeholder */}
-        <div className="relative rounded-2xl border border-[#1e1e2e] overflow-hidden mb-12 aspect-video flex items-center justify-center bg-[#0d0d14]">
-          <div className="absolute inset-0 bg-gradient-to-br from-[#13131c] to-[#0a0a0f]" />
-          <div className="relative z-10 text-center">
-            <div className="w-16 h-16 rounded-full border border-[#252535] bg-[#13131c] flex items-center justify-center mx-auto mb-4">
-              <svg
-                className="w-6 h-6 ml-0.5"
-                style={{ color: '#6366f1' }}
-                fill="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path d="M8 5v14l11-7z" />
-              </svg>
-            </div>
-            <p className="text-sm text-[#5a5a78]">Demo coming soon</p>
-            <p className="text-xs text-[#3a3a58] mt-1">Book a call to see it live</p>
-          </div>
-        </div>
-
         {/* Feature grid */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-px bg-[#1a1a26]">
           {features.map((f) => (

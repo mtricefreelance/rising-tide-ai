@@ -1,7 +1,7 @@
 const stats = [
   { value: '3 min', label: 'After', note: 'per run' },
   { value: '90 min', label: 'Before', note: 'per run' },
-  { value: '2 days', label: 'Build time', note: 'brief to production' },
+  { value: '2 days', label: 'Build time', note: 'brief to MVP' },
 ]
 
 export default function CaseStudy() {

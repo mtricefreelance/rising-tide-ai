@@ -12,7 +12,7 @@ export default function TwoLanes() {
             className="font-semibold text-[#e8e8f0] tracking-tight"
             style={{ fontSize: 'clamp(28px, 3.5vw, 40px)' }}
           >
-            Find your starting point.
+            Two ways to start.
           </h2>
         </div>
 

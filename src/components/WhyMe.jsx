@@ -19,7 +19,7 @@ export default function WhyMe() {
               className="font-semibold text-[#e8e8f0] tracking-tight leading-tight mb-8"
               style={{ fontSize: 'clamp(28px, 3.5vw, 40px)' }}
             >
-              He builds what he advises.
+              I build what I advise.
             </h2>
             <div className="space-y-5 text-[#8888a8] leading-relaxed text-[15px]">
               <p>

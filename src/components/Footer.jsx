@@ -15,7 +15,7 @@ export default function Footer() {
             className="font-semibold text-[#e8e8f0] tracking-tight mb-4"
             style={{ fontSize: 'clamp(32px, 5vw, 52px)', lineHeight: 1.1 }}
           >
-            Ready to see what's possible?
+            Your data is already there. Let's make it work.
           </h2>
           <p className="text-[#8888a8] mb-10 leading-relaxed max-w-sm mx-auto text-[15px]">
             Book a 30-minute discovery call. No pitch deck. Just a direct conversation about your
