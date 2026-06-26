@@ -1,8 +1,8 @@
 const proofPoints = [
   { value: '$100M+', label: 'ARR tracked monthly' },
   { value: '7', label: 'departments live on automation I deployed' },
-  { value: '$120M', label: 'monthly revenue through models I manage' },
-  { value: '2 days', label: 'from brief to deployed production AI pipeline' },
+  { value: '$120M', label: 'monthly revenue flowing through models I built' },
+  { value: '2 days', label: 'from brief to deployed AI recruitment pipeline MVP' },
 ]
 
 export default function WhyMe() {
@@ -29,8 +29,7 @@ export default function WhyMe() {
               </p>
               <p>
                 The platform I offer clients is the same system I built in production — live across
-                7 departments, used by the CFO for executive reporting, tracking $100M+ in recurring
-                revenue monthly. I'm currently working directly with the President and CFO to define
+                7 departments, used by the CFO for executive reporting, tracking $100M+ ARR. I'm currently working directly with the President and CFO to define
                 the top 5 metrics across every department and streamline how financial intelligence
                 reaches the executive team.
               </p>
