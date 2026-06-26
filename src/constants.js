@@ -1,1 +1,1 @@
-export const CALENDLY_URL = '#'; // TODO: replace with your Calendly URL after setup
+export const CALENDLY_URL = 'https://calendly.com/mike-risingtideai/discovery-call';
