@@ -20,6 +20,8 @@ export default function Nav() {
           </a>
           <a
             href={CALENDLY_URL}
+            target="_blank"
+            rel="noopener noreferrer"
             className="text-[14px] bg-[#6366f1] hover:bg-[#5254cc] text-white px-5 py-2.5 rounded-md font-medium transition-colors duration-150"
           >
             Book a call
@@ -28,6 +30,8 @@ export default function Nav() {
 
         <a
           href={CALENDLY_URL}
+          target="_blank"
+          rel="noopener noreferrer"
           className="md:hidden text-sm bg-[#6366f1] text-white px-4 py-2 rounded-md font-medium"
         >
           Book a call

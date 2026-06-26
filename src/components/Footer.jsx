@@ -23,6 +23,8 @@ export default function Footer() {
           </p>
           <a
             href={CALENDLY_URL}
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[#6366f1] hover:bg-[#5254cc] text-white px-8 py-4 rounded-lg font-medium transition-colors duration-150"
           >
             Book a discovery call

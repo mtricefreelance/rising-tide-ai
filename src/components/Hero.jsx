@@ -332,7 +332,7 @@ export default function Hero() {
         </p>
 
         <div style={{ display: 'flex', alignItems: 'center', gap: 20, marginTop: 40, flexWrap: 'wrap' }}>
-          <a href={CALENDLY_URL} style={btnPrimary}>
+          <a href={CALENDLY_URL} target="_blank" rel="noopener noreferrer" style={btnPrimary}>
             <span style={dot} />
             Book a discovery call
           </a>

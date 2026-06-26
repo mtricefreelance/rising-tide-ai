@@ -48,6 +48,8 @@ export default function TwoLanes() {
               </p>
               <a
                 href={CALENDLY_URL}
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 text-sm font-medium text-[#818cf8] hover:text-[#a5b4fc] transition-colors duration-150"
               >
                 Start the conversation <span aria-hidden="true">→</span>

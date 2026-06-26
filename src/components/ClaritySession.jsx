@@ -55,6 +55,8 @@ export default function ClaritySession() {
 
           <a
             href={CALENDLY_URL}
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 bg-[#6366f1] hover:bg-[#5254cc] text-white px-6 py-3 rounded-lg text-sm font-medium transition-colors duration-150"
           >
             Book the clarity session
