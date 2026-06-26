@@ -337,6 +337,7 @@ export default function Hero() {
             Book a discovery call
           </a>
           <button
+            onClick={() => document.getElementById('problem').scrollIntoView({ behavior: 'smooth' })}
             style={{
               fontFamily: mono, fontSize: 14, letterSpacing: '0.04em',
               border: 'none', background: 'none', padding: '11px 4px',

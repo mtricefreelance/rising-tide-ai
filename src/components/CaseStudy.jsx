@@ -18,7 +18,7 @@ export default function CaseStudy() {
               className="font-semibold text-[#e8e8f0] tracking-tight leading-tight mb-6"
               style={{ fontSize: 'clamp(28px, 3.5vw, 40px)' }}
             >
-              Built for a Life Sciences recruiting firm — in 2 days.
+              Built a full AI recruitment pipeline MVP and strategic AI implementation roadmap for a life sciences recruiting firm — delivered in two days.
             </h2>
             <div className="space-y-4 text-[#8888a8] leading-relaxed text-[15px]">
               <p>

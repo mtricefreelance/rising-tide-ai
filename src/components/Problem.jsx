@@ -19,7 +19,7 @@ const problems = [
 
 export default function Problem() {
   return (
-    <section className="py-16 px-6 border-t border-[#1a1a26] bg-[#0d0d14]">
+    <section id="problem" className="py-16 px-6 border-t border-[#1a1a26] bg-[#0d0d14]">
       <div className="max-w-6xl mx-auto">
         <div className="max-w-2xl mb-16">
           <h2
