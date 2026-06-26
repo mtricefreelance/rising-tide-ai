@@ -18,7 +18,7 @@ export default function Footer() {
             Your data is already there. Let's make it work.
           </h2>
           <p className="text-[#8888a8] mb-10 leading-relaxed max-w-sm mx-auto text-[15px]">
-            Book a 30-minute discovery call. No pitch deck. Just a direct conversation about your
+            Book a 20-minute discovery call. No pitch deck. Just a direct conversation about your
             business and whether I can help.
           </p>
           <a
